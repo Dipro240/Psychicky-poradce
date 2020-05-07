@@ -24,7 +24,7 @@ cls
 goto selecc
 :chci_se_zabit
 cls
-echo A co ja jako s tim ? Vypadam ze jsem zivi ? Jestli se chces zabit, me s tim neser dik.
+echo A co ja jako s tim ? Vypadam ze jsem zivy ? Jestli se chces zabit, me s tim neser dik.
 pause
 cls
 goto selecc
